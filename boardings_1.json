@@ -1,0 +1,21 @@
+[
+    { 
+        "Departure": "Dubai", 
+        "Arrival":  "Paris", 
+        "Transportation": "Plane",
+        "luggage": "HBGF56",
+        "Seat": "6BG5" 
+    },
+    { 
+        "Departure": "Madrid", 
+        "Arrival": "Dubai", 
+        "Transportation": "Train", 
+        "Seat": "A543A"
+    },
+    { 
+        "Departure": "Paris", 
+        "Arrival": "London", 
+        "Transportation": "Bus", 
+        "Seat": "B897R"
+    }
+]

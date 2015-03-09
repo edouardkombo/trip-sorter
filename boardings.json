@@ -1,0 +1,58 @@
+[   
+    {        
+        "boardind": {
+            "from": "Madrid",
+            "to": "Barcelona",            
+            "steps": {
+                "transportation":"train",
+                "id":"78A",            
+                "seat": "45B",
+                "luggage": "",
+                "gate": ""
+            }
+        }
+    },
+    
+    {        
+        "boardind": {
+            "from": "Barcelona",
+            "to": "Gerona Airport",            
+            "steps": {
+                "transportation":"bus",
+                "id":"",            
+                "seat": "",
+                "luggage": "",
+                "gate": ""
+            }
+        }
+    },    
+
+    {        
+        "boardind": {
+            "from": "Gerona Airport",
+            "to": "Stockholm",            
+            "steps": {
+                "transportation": "flight",
+                "id": "SK455",
+                "seat": "3A",
+                "luggage": "344",
+                "gate": "45B"
+            }
+        }
+    },
+    
+    {        
+        "boardind": {
+            "from": "Stockholm",
+            "to": " New York JFK",            
+            "steps": {
+                "transportation": "flight",
+                "id": "SK22",
+                "seat": "7B",
+                "luggage": "auto",
+                "gate": "22"
+            }
+        }
+    }    
+
+]
